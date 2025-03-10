@@ -1,0 +1,21 @@
+div.intro{
+  position: relative;
+  align-self: center;
+  justify-self: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  line-height: normal;
+  width: fit-content;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: 300;
+}
+
+div.heading_line-1{
+  font-size: 4rem;
+}
+div.heading_line-2{
+  font-size: 3.2rem;
+}
